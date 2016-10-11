@@ -35,3 +35,4 @@ Gemfile.lock
 Session.vim
 .netrwhist
 *~
+.DS_Store
